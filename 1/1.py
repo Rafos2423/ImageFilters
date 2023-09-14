@@ -1,6 +1,5 @@
 import numpy as np
 import cv2
-from google.colab.patches import cv2_imshow
 
 lower_arr=np.array([[1, 1, 1, 1, 1],[1, 1, 1, 1, 1],[1, 1, 1, 1, 1],[1, 1, 1, 1, 1],[1, 1, 1, 1, 1]])
 higher_arr=np.array([[0.0, -1.0, 0.0],[-1.0, 4.0, -1.0],[0.0, -1.0, 0.0]])
@@ -19,4 +18,4 @@ for i in range(1,6):
 
   result_image = np.concatenate((img_lower_rst, img_higher_rst, img_sharp), axis=1)
 
-  cv2_imshow(result_image)
+  cv2.imshow(result_image)
