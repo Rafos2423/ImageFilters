@@ -2,13 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\1",
-    "\\1\\images",
-    "\\env",
-    "\\env\\Lib",
     "\\env\\Lib\\site-packages",
-    "\\env\\Lib\\site-packages\\pip",
-    "\\env\\Scripts"
+    "\\env\\Lib\\site-packages\\pip"
   ],
-  "SelectedNode": "\\1\\1.py",
   "PreviewInSolutionExplorer": false
 }
