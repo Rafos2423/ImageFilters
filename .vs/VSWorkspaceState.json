@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\1",
-    "\\2"
+    "\\2",
+    "\\2\\results"
   ],
-  "SelectedNode": "\\2\\1.py",
+  "SelectedNode": "\\2\\results",
   "PreviewInSolutionExplorer": false
 }
